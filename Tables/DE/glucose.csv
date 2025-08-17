@@ -1,0 +1,12 @@
+Neurons,HE,NP,Mesoderm,Epiblast,EBHD8
+Hk2,Aldoa,Hk2,Hk2,Pfkfb2,Aldoa
+Pfkp,Dld,Pfkl,Pfkl,Pfkfb23,Dld
+Pfkfb4,,Eno2,Pklr,Aldoa,
+Aldoa,,Aldoa,Sdha,Eno2,
+Eno2,,Eno2,Mdh2,Pdk4,
+Pkm,,Pklr,,Sdkaf3,
+Ldha,,Ldha,,Sdhaf4,
+Pdha1,,Pdk2,,Mdh1b,
+Pdk2,,Ogdh,,,
+Suclg1,,Sdhaf4,,,
+Sdhad4,,Mdh1,,,

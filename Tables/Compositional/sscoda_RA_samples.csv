@@ -1,0 +1,46 @@
+Covariate,Cell Type,Final Parameter
+sample[T.5000_nM_RA],Cardiac Mesoderm,True
+sample[T.5000_nM_RA],Early Neurons,True
+sample[T.5000_nM_RA],Endoderm,False
+sample[T.5000_nM_RA],Epidermis,True
+sample[T.5000_nM_RA],GR Pluripotent,True
+sample[T.5000_nM_RA],Hemangioblasts,True
+sample[T.5000_nM_RA],Mesoderm,True
+sample[T.5000_nM_RA],N/A1,False
+sample[T.5000_nM_RA],N/A2,False
+sample[T.5000_nM_RA],N/A3,True
+sample[T.5000_nM_RA],N/A4,True
+sample[T.5000_nM_RA],PR Pluripotent,False
+sample[T.5000_nM_RA],Pluripotent,True
+sample[T.5000_nM_RA],Pre-Neurons,True
+sample[T.5000_nM_RA],Primitive Streak,True
+sample[T.RA_7d],Cardiac Mesoderm,False
+sample[T.RA_7d],Early Neurons,False
+sample[T.RA_7d],Endoderm,False
+sample[T.RA_7d],Epidermis,False
+sample[T.RA_7d],GR Pluripotent,False
+sample[T.RA_7d],Hemangioblasts,False
+sample[T.RA_7d],Mesoderm,False
+sample[T.RA_7d],N/A1,False
+sample[T.RA_7d],N/A2,False
+sample[T.RA_7d],N/A3,False
+sample[T.RA_7d],N/A4,False
+sample[T.RA_7d],PR Pluripotent,False
+sample[T.RA_7d],Pluripotent,False
+sample[T.RA_7d],Pre-Neurons,False
+sample[T.RA_7d],Primitive Streak,False
+batch[T.ra],Cardiac Mesoderm,False
+batch[T.ra],Early Neurons,False
+batch[T.ra],Endoderm,False
+batch[T.ra],Epidermis,False
+batch[T.ra],GR Pluripotent,False
+batch[T.ra],Hemangioblasts,False
+batch[T.ra],Mesoderm,False
+batch[T.ra],N/A1,False
+batch[T.ra],N/A2,True
+batch[T.ra],N/A3,False
+batch[T.ra],N/A4,False
+batch[T.ra],PR Pluripotent,False
+batch[T.ra],Pluripotent,False
+batch[T.ra],Pre-Neurons,False
+batch[T.ra],Primitive Streak,False

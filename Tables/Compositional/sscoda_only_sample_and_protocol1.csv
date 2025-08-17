@@ -1,0 +1,71 @@
+Covariate,Cell Type,Final Parameter
+sample[T.5000_nM_RA],Cardiac Mesoderm,False
+sample[T.5000_nM_RA],Early Neurons,True
+sample[T.5000_nM_RA],Endoderm,False
+sample[T.5000_nM_RA],Epidermis,True
+sample[T.5000_nM_RA],GR Pluripotent,False
+sample[T.5000_nM_RA],Hemangioblasts,False
+sample[T.5000_nM_RA],Mesoderm,False
+sample[T.5000_nM_RA],N/A1,False
+sample[T.5000_nM_RA],N/A2,False
+sample[T.5000_nM_RA],N/A3,False
+sample[T.5000_nM_RA],N/A4,True
+sample[T.5000_nM_RA],Pluripotent,True
+sample[T.5000_nM_RA],Pre-Neurons,False
+sample[T.5000_nM_RA],Primitive Streak,True
+sample[T.EB_8d],Cardiac Mesoderm,True
+sample[T.EB_8d],Early Neurons,False
+sample[T.EB_8d],Endoderm,False
+sample[T.EB_8d],Epidermis,False
+sample[T.EB_8d],GR Pluripotent,False
+sample[T.EB_8d],Hemangioblasts,False
+sample[T.EB_8d],Mesoderm,False
+sample[T.EB_8d],N/A1,True
+sample[T.EB_8d],N/A2,True
+sample[T.EB_8d],N/A3,False
+sample[T.EB_8d],N/A4,False
+sample[T.EB_8d],Pluripotent,False
+sample[T.EB_8d],Pre-Neurons,False
+sample[T.EB_8d],Primitive Streak,True
+sample[T.HD_8d],Cardiac Mesoderm,True
+sample[T.HD_8d],Early Neurons,True
+sample[T.HD_8d],Endoderm,True
+sample[T.HD_8d],Epidermis,True
+sample[T.HD_8d],GR Pluripotent,False
+sample[T.HD_8d],Hemangioblasts,False
+sample[T.HD_8d],Mesoderm,True
+sample[T.HD_8d],N/A1,False
+sample[T.HD_8d],N/A2,False
+sample[T.HD_8d],N/A3,False
+sample[T.HD_8d],N/A4,True
+sample[T.HD_8d],Pluripotent,False
+sample[T.HD_8d],Pre-Neurons,True
+sample[T.HD_8d],Primitive Streak,False
+sample[T.RA_7d],Cardiac Mesoderm,True
+sample[T.RA_7d],Early Neurons,False
+sample[T.RA_7d],Endoderm,True
+sample[T.RA_7d],Epidermis,False
+sample[T.RA_7d],GR Pluripotent,True
+sample[T.RA_7d],Hemangioblasts,True
+sample[T.RA_7d],Mesoderm,True
+sample[T.RA_7d],N/A1,True
+sample[T.RA_7d],N/A2,False
+sample[T.RA_7d],N/A3,False
+sample[T.RA_7d],N/A4,True
+sample[T.RA_7d],Pluripotent,False
+sample[T.RA_7d],Pre-Neurons,False
+sample[T.RA_7d],Primitive Streak,False
+protocol[T.protocol2],Cardiac Mesoderm,False
+protocol[T.protocol2],Early Neurons,True
+protocol[T.protocol2],Endoderm,False
+protocol[T.protocol2],Epidermis,True
+protocol[T.protocol2],GR Pluripotent,False
+protocol[T.protocol2],Hemangioblasts,True
+protocol[T.protocol2],Mesoderm,False
+protocol[T.protocol2],N/A1,True
+protocol[T.protocol2],N/A2,False
+protocol[T.protocol2],N/A3,False
+protocol[T.protocol2],N/A4,True
+protocol[T.protocol2],Pluripotent,True
+protocol[T.protocol2],Pre-Neurons,False
+protocol[T.protocol2],Primitive Streak,True

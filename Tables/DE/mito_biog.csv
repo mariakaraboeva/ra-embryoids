@@ -1,0 +1,13 @@
+Neurons,NP,HE,20,EBHD8,Epiblast
+Papolg,Papolg,Mfn1,Papolg,Polg2,Papolg
+Mfn1,Polg,Ndufv3,Polg2,Mfn1,Ndufs6
+Ndufs6,Ndufaf1,,Polg,Ndufaf1,Ndufa10
+Ndufv3,Ndufa11,,Mfn1,Ndufa5,Ndufa8
+Ndufaf1,Ndufaf3,,Ndufs6,Ndufa10,Surf4
+Ndufa5,Surf4,,Ndufaf1,Ndufa8,
+Ndufa11,Fis1,,Ndufaf3,,
+Ndufaf3,,,Ndufa10,,
+Ndufa10,,,Surf1,,
+Ndufa8,,,Surf4,,
+Surf1,,,,,
+Surf4,,,,,
